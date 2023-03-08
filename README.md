@@ -1,5 +1,5 @@
 # hello-world
-This is a test repository. Just figuring stuff out mane. 
+This is a test repository. Just figuring stuff out.
 
 ## Update1
 Now I'm just testing out branching off a repository.
